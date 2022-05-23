@@ -11,7 +11,10 @@ namespace SQLiteDemo
 {
     class Program
     {
-         //I was here   
+         //I was here 
+         // It will be my addition  
+         //3rd line
+         
         static void Main(string[] args)
         {
             SQLiteConnection sqlite_conn;
