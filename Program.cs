@@ -12,7 +12,8 @@ namespace SQLiteDemo
     class Program
     {
          //I was here  
-         // I am in branch ap01 
+         // I am in branch ap01
+         // line 3 
         static void Main(string[] args)
         {
             SQLiteConnection sqlite_conn;
